@@ -1,0 +1,7 @@
+C:\Project-Ferreteria-DBA-SE\SistemaFerreteria\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Project-Ferreteria-DBA-SE\SistemaFerreteria\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Project-Ferreteria-DBA-SE\SistemaFerreteria\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Project-Ferreteria-DBA-SE\SistemaFerreteria\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Project-Ferreteria-DBA-SE\SistemaFerreteria\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Project-Ferreteria-DBA-SE\SistemaFerreteria\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Project-Ferreteria-DBA-SE\SistemaFerreteria\CapaEntidades\bin\Debug\CapaEntidades.dll.config
